@@ -1,0 +1,11 @@
+.watermark svg{
+   position: absolute;
+   margin-top: 20px;
+   
+}
+.watermark svg image{
+   transform: rotate(-35deg);
+}
+.watermark svg text{
+   transform: rotate(-45deg);
+}
